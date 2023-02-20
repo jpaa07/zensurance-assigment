@@ -1,0 +1,22 @@
+{
+  "id": "36805086",
+  "name": "Zen Test Workspace",
+  "spaces": [
+    {
+      "id": "90020057202",
+      "name": "Zensurance Test Space",
+      "folders": [
+        {
+          "id": "90030469886",
+          "name": "Test Folder",
+          "lists": [
+            {
+              "id": "900300873218",
+              "name": "Test List"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

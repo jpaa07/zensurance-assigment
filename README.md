@@ -13,6 +13,8 @@
  
  ### Api tests
  
+ #### NOTE: You can check API Acceptance Criteria on `part-2/readme.md`
+ 
  Execute `npm run api-test`
  
  #### Report
